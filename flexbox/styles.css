@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  background: orange;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  background: lightgreen;
+  height: 40px;
+  margin: 10px;
+  width: 200px;
+}
