@@ -1,5 +1,7 @@
 *{
   box-sizing: border-box;
+}
+body{
   background: #f7e6dc;
   margin: 0px;
   flex-wrap: wrap;
