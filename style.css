@@ -1,0 +1,38 @@
+html{
+  background-color: cornsilk;
+}
+
+ul{
+list-style-type: none;
+margin: 50px;
+padding: 0px;
+overflow: hidden;
+background-color: lightblue;
+margin-left: 0px;
+margin-right: 0px;
+position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+text-align: center;
+font-size: 100px;
+
+}
+li{
+  display: inline;
+  float: left;
+  border-right: 2px solid white;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+li a:hover{
+  background-color: burlywood;
+}
